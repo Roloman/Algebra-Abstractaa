@@ -1,0 +1,6 @@
+﻿  Cesar.cpp
+F:\San Pablo\Algebra Abstracta\Cesar\Cesar\Cesar.cpp(11,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+F:\San Pablo\Algebra Abstracta\Cesar\Cesar\Cesar.cpp(26,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Cesar\Cesar\Cesar.cpp(44,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Cesar\Cesar\Cesar.cpp(101,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Cesar.vcxproj -> F:\San Pablo\Algebra Abstracta\Cesar\Debug\Cesar.exe
